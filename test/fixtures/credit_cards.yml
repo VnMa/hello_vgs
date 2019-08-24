@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  card_number: MyString
+  card_holder_name: MyString
+  expiration_date: MyString
+  owner_id: 1
+  object: MyString
+
+two:
+  email: MyString
+  card_number: MyString
+  card_holder_name: MyString
+  expiration_date: MyString
+  owner_id: 1
+  object: MyString
